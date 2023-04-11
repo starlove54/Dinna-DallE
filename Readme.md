@@ -1,3 +1,5 @@
+![Alt text](client/src/assets/banner.png)
+
 Dinna Dall-E is a web application that allows users to create new images using OpenAI's Dall-E model. The application uses Cloudinary to store and serve the images, and Tailwind CSS for a modern and minimal design. The front-end of the application was built with React using Vite, while the back-end was built with Node.js using Express and MongoDB for the database.
 
 
